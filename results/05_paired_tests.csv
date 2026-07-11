@@ -1,0 +1,6 @@
+A,B,A_beats_only,B_beats_only,chi2,p_value,winner,significant_05
+ANT_pup50,R1_confirmed,99,81,1.606,0.20512,ANT_pup50,False
+ANT_pup50,R1_share_ge50,102,111,0.3,0.58359,R1_share_ge50,False
+ANT_all,ANT_pup50,14,14,0.036,0.85011,ANT_pup50,False
+R1_share_ge50,R1_confirmed,77,50,5.323,0.02105,R1_share_ge50,True
+ANT_pup50,ANT_pup70,37,46,0.771,0.37988,ANT_pup70,False
