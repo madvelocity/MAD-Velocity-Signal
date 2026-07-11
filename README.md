@@ -8,8 +8,8 @@ and measures the result on the capital actually deployed — against the S&P 500
 was, delisted members included.
 
 Companion code for the paper **"MAD-Velocity: Constructing and Evaluating a Moving-Average-Distance
-Trading Signal"** (Lawson Arrington, July 2026). <!-- add paper/LinkedIn link -->
-Extends the [MAD-Markov Model](#) <!-- add MAD-Markov repo link --> from forecasting to trading.
+Trading Signal"** (Lawson Arrington, July 2026) — [read the paper](MAD-Velocity.pdf).
+Extends the [MAD-Markov Model](https://github.com/madvelocity/MAD-Markov-Model) from forecasting to trading.
 
 ---
 
